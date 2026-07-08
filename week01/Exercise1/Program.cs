@@ -10,6 +10,6 @@ class Program
         String name1 = Console.ReadLine();
         Console.Write("What is your last name?");
         String name2 = Console.ReadLine();
-        Console.Write($"Your name is {name2}, {name2} {name1}.");
+        Console.Write($"Your name is {name2}, {name1} {name2}.");
     }
 }
